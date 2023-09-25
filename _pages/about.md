@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Masters Candidate in Data Science and Information Technology, Tsinghua University<strong>
+subtitle: Masters Candidate in Data Science and Information Technology, Tsinghua University
 
 profile:
   align: right
