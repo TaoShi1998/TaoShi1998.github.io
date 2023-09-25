@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TaoShi1998.github.io/al-folio/sitemap.xml
+Sitemap: https://TaoShi1998.github.io/TaoShi1998//sitemap.xml
