@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Masters Candidate in Data Science and Information Technology, Tsinghua University
 
 profile:
   align: right
