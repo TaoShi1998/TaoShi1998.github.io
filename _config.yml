@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
-first_name: Tao Shi
+title: - Tao Shi# the website title (if blank, full name will be used instead)
+first_name: 
 middle_name: 
 last_name:
 email: shitao21@mails.tsinghua.edu.cn
