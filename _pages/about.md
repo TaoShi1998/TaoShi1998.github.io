@@ -19,9 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I am currently a third-year master's student in Data Science and Information Technology at Tsinghua University.
+Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I am currently pursuing a master's degree in Data Science and Information Technology at Tsinghua-UC Berkeley Shenzhen Institute (TBSI), Tsinghua University. 
 
-My research interests are natural language processing, multimodal learning, and machine learning. 
+Prior to my enrollment at Tsinghua University, I obtained my bachelor's degree in Computer Science and Technology from China University of Mining and Technology.
+
+My research interests primarily lie in natural language processing, multimodal learning, and machine learning.
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
