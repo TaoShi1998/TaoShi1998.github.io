@@ -13,10 +13,10 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+Publications: true # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I am currently pursuing a master's degree in Data Science and Information Technology at Tsinghua-UC Berkeley Shenzhen Institute (TBSI), Tsinghua University.
