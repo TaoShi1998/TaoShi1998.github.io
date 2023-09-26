@@ -23,9 +23,9 @@ Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I am currently purs
 
 Prior to my enrollment at Tsinghua University, I obtained my bachelor's degree in Computer Science and Technology from China University of Mining and Technology.
 
-Currently, I am being sueprvised by [Prof. Shao-Lun Huang](http://reddit.com). My research interests primarily lie in natural language processing, multimodal learning, and machine learning.
+Currently, I am being sueprvised by [Prof. Shao-Lun Huang](https://sites.google.com/view/slhuang/home). My research interests primarily lie in natural language processing, multimodal learning, and machine learning.
 
-If you have any questions, feel free to contact me via shitao21[at]mails.tsinghua.edu.cn.
+If you have any questions, please feel free to contact me via [shitao21@mails.tsinghua.edu.cn](mailto:shitao21@mails.tsinghua.edu.cn).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
