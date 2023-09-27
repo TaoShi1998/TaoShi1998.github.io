@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tsinghua Sustainable Development Goals (SDG) Open Hack
+title: Tsinghua SDG Open Hack 
 description: Track 7-Multimodal and Data Intelligence
 img: assets/img/proj2_cover.png
 permalink: assets/pdf/sdg.pdf
