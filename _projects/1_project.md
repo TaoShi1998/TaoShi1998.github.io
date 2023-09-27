@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TBSI Retreat 2023 Poster Competition
-description: Digital Battery Passport——Towards a Sustainable and Smart Living
+description: Digital Battery Passport-Towards a Sustainable and Smart Living
 img: assets/img/proj1_cover.png
 importance: 1
 category: Academic
