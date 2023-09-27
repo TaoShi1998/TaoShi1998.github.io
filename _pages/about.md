@@ -29,6 +29,9 @@ If you are interested in discussing potential academic cooperation opportunities
 <a href="https://taoshi1998.github.io./assets/pdf/sdg_compressed.pdf", target="_blank">mypdf</a>
 <a href="https://taoshi1998.github.io./assets/pdf/Retreat2023_compressed.pdf", target="_blank">mypdf</a>
 
+<embed src="https://taoshi1998.github.io./assets/pdf/sdg_compressed.pdf" type="application/pdf" />
+<embed src="https://taoshi1998.github.io./assets/pdf/Retreat2023_compressed.pdf" type="application/pdf" />
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
