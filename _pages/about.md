@@ -17,13 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I am currently pursuing a master's degree in Data Science and Information Technology at Tsinghua-UC Berkeley Shenzhen Institute (TBSI), Tsinghua University.
+Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I am currently pursuing a master's degree in Data Science and Information Technology at Tsinghua-UC Berkeley Shenzhen Institute (TBSI), Tsinghua University. My sueprvisor is [Prof. Shao-Lun Huang](https://sites.google.com/view/slhuang/home).
 
 Prior to my enrollment at Tsinghua University, I obtained my bachelor's degree in Computer Science and Technology from China University of Mining and Technology.
 
-Currently, I am being sueprvised by [Prof. Shao-Lun Huang](https://sites.google.com/view/slhuang/home). My research interests primarily lie in natural language processing, multimodal learning, and machine learning.
+My research interests primarily lie in natural language processing, multimodal learning, and machine learning.
 
-If you have any questions, please feel free to contact me via [shitao21@mails.tsinghua.edu.cn](mailto:shitao21@mails.tsinghua.edu.cn).
+If you are interested in discussing potential academic cooperation opportunities or if you have any questions, please don't hesitate to reach out to me via [shitao21@mails.tsinghua.edu.cn](mailto:shitao21@mails.tsinghua.edu.cn).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
