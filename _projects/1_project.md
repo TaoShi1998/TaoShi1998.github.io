@@ -7,5 +7,4 @@ importance: 1
 category: Academic
 giscus_comments: true
 ---
-
-
+<a href="https://taoshi1998.github.io./assets/pdf/Retreat2023_compressed.pdf">Digital Battery Passport-Towards a Sustainable and Smart Living</a>
