@@ -9,7 +9,7 @@ profile:
   image: website_prof.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Me feeding a duck at Tsinghua campus</p>
+    <p>Me feeding ducks at the Tsinghua campus</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
