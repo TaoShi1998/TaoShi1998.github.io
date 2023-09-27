@@ -26,7 +26,7 @@ My research interests primarily lie in natural language processing, multimodal l
 If you are interested in discussing potential academic cooperation opportunities or if you have any questions, please don't hesitate to reach out to me via [shitao21@mails.tsinghua.edu.cn](mailto:shitao21@mails.tsinghua.edu.cn).
 
 
-<a href="https://taoshi1998.github.io./assets/pdf/Retreat2023.pdf">mypdf</a>
+<a href="https://taoshi1998.github.io./assets/pdf/sdg_compressed.pdf">mypdf</a>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
