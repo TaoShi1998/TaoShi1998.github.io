@@ -29,7 +29,7 @@ If you are interested in discussing potential academic cooperation opportunities
 <a href="https://taoshi1998.github.io./assets/pdf/sdg_compressed.pdf", target="_blank">mypdf</a>
 <a href="https://taoshi1998.github.io./assets/pdf/Retreat2023_compressed.pdf", target="_blank">mypdf</a>
 
-<embed src="https://taoshi1998.github.io./assets/pdf/sdg_compressed.pdf" type="application/pdf" />
+<embed src="https://taoshi1998.github.io./assets/pdf/sdg_test.pdf" type="application/pdf" />
 <embed src="https://taoshi1998.github.io./assets/pdf/Retreat2023_compressed.pdf" type="application/pdf" />
 
 
