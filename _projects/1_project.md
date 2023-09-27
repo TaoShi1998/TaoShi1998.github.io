@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TBSI Retreat 2023
-description: a project with a background image and giscus comments
+title: TBSI Retreat 2023 Poster Competition
+description: Digital Battery Passport: Towards a Sustainable and Smart Living
 img: assets/img/3.jpg
 importance: 1
 category: Academic
