@@ -21,7 +21,7 @@ Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I am currently purs
 
 Prior to my enrollment at Tsinghua University, I obtained my bachelor's degree in Computer Science and Technology from China University of Mining and Technology.
 
-My research interests primarily lie in natural language processing, multimodal learning, and machine learning.
+My research interests primarily lie in the intersection of natural language processing, computer vision, and multimodal learning.
 
 If you are interested in discussing potential academic cooperation opportunities or if you have any questions, please don't hesitate to reach out to me via [shitao21@mails.tsinghua.edu.cn](mailto:shitao21@mails.tsinghua.edu.cn).
 
