@@ -26,7 +26,7 @@
 }
 
 @article{SSLCL_AAAI2024,
-  abbr={ArXiv Preprint},
+  abbr={Under Review at TACL},
   title={SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations},
   author={Shi, Tao and Liang, Xiao and Liang, Yaoyuan and Tong, Xinyi and Huang, Shao-Lun},
   abstract={Emotion recognition in conversations (ERC) is a rapidly evolving task within the natural language processing community, which aims to detect the emotions expressed by speakers during a conversation. Recently, a growing number of ERC methods have focused on leveraging supervised contrastive learning (SCL) to enhance the robustness and generalizability of learned features. However, current SCL-based approaches in ERC are impeded by the constraint of large batch sizes and the lack of compatibility with most existing ERC models. To address these challenges, we propose an efficient and model-agnostic SCL framework named Supervised Sample-Label Contrastive Learning with Soft-HGR Maximal Correlation (SSLCL), which eliminates the need for a large batch size and can be seamlessly integrated with existing ERC models without introducing any model-specific assumptions. Specifically, we introduce a novel perspective on utilizing label representations by projecting discrete labels into dense embeddings through a shallow multilayer perceptron, and formulate the training objective to maximize the similarity between sample features and their corresponding ground-truth label embeddings, while minimizing the similarity between sample features and label embeddings of disparate classes. Moreover, we innovatively adopt the Soft-HGR maximal correlation as a measure of similarity between sample features and label embeddings, leading to significant performance improvements over conventional similarity measures. Additionally, multimodal cues of utterances are effectively leveraged by SSLCL as data augmentations to boost model performances. Extensive experiments on two ERC benchmark datasets, IEMOCAP and MELD, demonstrate the compatibility and superiority of our proposed SSLCL framework compared to existing state-of-the-art SCL methods.},
@@ -59,6 +59,17 @@
   selected={true}
 }
 
+@article{autoCODES_2024,
+  abbr={Under Review at IEEE-ITW'24},
+  title={A Non-asymptotic Framework for Characterizing Dependency Structures in Multimodal Learning},
+  author={Wang, Weida and Shi, Tao and Liang, Yaoyuan and Tong, Xinyi and Huang, Shao-Lun},
+  abstract={Dependency structures between modalities have been utilized explicitly and implicitly in multimodal learning to enhance classification performance, particularly when the training samples are insufficient. Recent efforts have concentrated on developing mathematical frameworks utilizing conditional dependency structures, but the non-asymptotic relations between the training sample size and various structures are not sufficiently addressed. To address this issue, we propose a mathematical framework that can be utilized to characterize conditional dependency structures in analytic ways. It provides an explicit description of the sample size in learning various structures in a non-asymptotic regime. Additionally, it demonstrates how task complexity and a fitness evaluation of conditional dependence structures affect the results. Furthermore, we develop an autonomously updated coefficient algorithm auto-CODES based on the theoretical framework and conduct experiments on multimodal emotion recognition tasks using the MELD dataset. The experimental results validate our theory and show the effectiveness of the proposed algorithm. },
+  year={2023},
+  code={https://github.com/TaoShi1998/auto-CODES},
+  pdf={/assets/pdf/CV.pdf},
+  selected={true}
+}
+
 @book{einstein1956investigations,
   bibtex_show={true},
   title={MultiEMO: An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations},
@@ -67,9 +78,6 @@
   publisher={Courier Corporation},
   preview={brownian-motion.gif}
 }
-
-
-
 
 @article{einstein1905molekularkinetischen,
   title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
