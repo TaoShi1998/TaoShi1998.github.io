@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Masters Candidate in Data Science and Information Technology, Tsinghua University<strong>
+subtitle: 
 
 profile:
   align: right
@@ -17,11 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I am currently pursuing a Master's degree in Data Science and Information Technology at Tsinghua-UC Berkeley Shenzhen Institute, Tsinghua University. My academic sueprvisor is [Prof. Shao-Lun Huang](https://sites.google.com/view/slhuang/home).
+Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I obtained a Master's degree in Data Science and Information Technology from Tsinghua University in June 2020, supervised by [Prof. Shao-Lun Huang](https://sites.google.com/view/slhuang/home). Earlier, I obtained my Bachelor's degree in Computer Science and Technology from China University of Mining and Technology.
 
-Prior to my enrollment at Tsinghua University, I obtained my Bachelor's degree in Computer Science and Technology from China University of Mining and Technology.
-
-My research interests primarily lie in the intersection of natural language processing, computer vision, and multimodal learning.
+My research interests primarily lie in the intersection of natural language processing and multimodal learning.
 
 If you are interested in discussing potential academic cooperation opportunities or if you have any questions, please don't hesitate to reach out to me via [shitao21@mails.tsinghua.edu.cn](mailto:shitao21@mails.tsinghua.edu.cn).
 
