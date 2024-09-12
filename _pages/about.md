@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I obtained a Master's degree in Data Science and Information Technology from Tsinghua University in June 2020, supervised by [Prof. Shao-Lun Huang](https://sites.google.com/view/slhuang/home). Earlier, I obtained my Bachelor's degree in Computer Science and Technology from China University of Mining and Technology.
+Hi there! My name is Tao Shi (石涛 in Simplified Chinese). I obtained a Master's degree in Data Science and Information Technology from Tsinghua University in June 2024, under the supervision of [Prof. Shao-Lun Huang](https://sites.google.com/view/slhuang/home). Earlier, I earned my Bachelor’s degree in Computer Science and Technology from China University of Mining and Technology in June 2020.
 
 My research interests primarily lie in the intersection of natural language processing and multimodal learning.
 
