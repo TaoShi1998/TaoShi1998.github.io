@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Tao Shi_CV.pdf
+permalink: /assets/pdf/Resume.pdf
 title: cv
 nav: true
 nav_order: 4
